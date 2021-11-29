@@ -1,1 +1,1 @@
-{"version":1,"defects":{"ilhamhmmd\\Test\\CounterTest::testCounter":5},"times":{"ilhamhmmd\\Test\\CounterTest::testCounter":0.003}}
+{"version":1,"defects":{"ilhamhmmd\\Test\\CounterTest::testCounter":3},"times":{"ilhamhmmd\\Test\\CounterTest::testCounter":0.005,"ilhamhmmd\\Test\\CounterTest::increment":0.003}}
